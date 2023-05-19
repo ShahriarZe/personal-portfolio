@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.author{
+    color:orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 75%;
+}
+.Hire{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 500;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/Screenshot\ 2023-05-19\ 214333.png);
+    background-repeat: no-repeat;
+
+}
